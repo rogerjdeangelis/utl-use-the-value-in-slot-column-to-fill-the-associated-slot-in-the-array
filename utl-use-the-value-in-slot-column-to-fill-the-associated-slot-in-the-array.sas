@@ -4,6 +4,13 @@ Use the value in slot column to fill the associated slot in the array
 
 The posted solution is incorrect? it does match the ops 'want' dataset. see section problem.
 
+
+github
+https://tinyurl.com/5cd5n65k
+https://github.com/rogerjdeangelis/utl-use-the-value-in-slot-column-to-fill-the-associated-slot-in-the-array
+
+sas communities
+https://tinyurl.com/ymh2bau9
 https://communities.sas.com/t5/SAS-Programming/How-to-increment-a-column-based-on-the-character-value-of-a-row/td-p/871617
 
 I'd like to increment a specific column that corresponds to a character value of another column.
